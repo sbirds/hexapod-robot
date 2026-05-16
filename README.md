@@ -16,15 +16,22 @@ This repository contains the source code and documentation for the **Autonomous 
 
 ## 🛠️ Tech Stack & Hardware
 **Hardware:**
-* Raspberry Pi 5
-* Custom Hexapod Chassis (Metal/Acrylic)
-* High-Torque Servo Motors & Controllers
-* Camera Module
+* **Main Board:** Raspberry Pi 5 (4GB RAM)
+* **Servo Controller:** RTrobot 32-Channel Servo Controller (VER 3.1)
+* **Actuators:** 19x Servo Motor MG996R (18 for legs, 1 for camera pan)
+* **Camera:** Arducam 5MP Camera Board
+* **Power Supply:** LiPo Battery 3S 11.1V 6000mAh 40C
+* **Power Management:** LTC3780 DC-DC Step-Down & XL4016E1 DC-DC Step-Down Converters
+* **Chassis:** Aluminum Hexapod Robot Model
+* **Other:** 3-Pin Red Switch
 
-**Software:**
-* **Language:** Python
-* **Libraries:** OpenCV, picamera2, Socket (for Wi-Fi communication)
-* **OS:** Raspberry Pi OS (Raspbian)
+**Software & Tools:**
+* **Programming Language:** Python
+* **Libraries:** OpenCV (cv2), picamera2, PySerial, NumPy, Tkinter, Pillow
+* **Servo Configuration Tool:** RTrobot Servo Controller (Ver 3.7.6)
+* **Remote Control & Monitoring:** Raspberry Pi Connect / RealVNC
+* **IDE:** Visual Studio Code (VS Code)
+* **OS:** Raspberry Pi OS (Linux)
 
 ## 🚀 How to Run
 1. Clone this repository: 
