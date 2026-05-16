@@ -6,8 +6,7 @@
 
 > **Watch the Demo:** [Click here to insert a link to your YouTube video]
 
-![Robot Demo](insert_link_to_your_gif_or_image_here.gif) 
-*(แนะนำ: เอารูปภาพหุ่นยนต์ หรือไฟล์ .gif สั้นๆ ตอนหุ่นยนต์กำลังเดินมาใส่แทนข้อความนี้)*
+<img width="1477" height="1108" alt="หลุม" src="https://github.com/user-attachments/assets/d478d8ec-5e9e-416f-9256-44dce7482d65" />
 
 ## 📖 Project Overview
 This repository contains the source code and documentation for the **Autonomous Hexapod Robot**, my university engineering senior project. The robot is designed for exploration and navigation in hazardous or inaccessible environments. It features precise multi-axis locomotion and a real-time computer vision system.
