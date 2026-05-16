@@ -38,9 +38,9 @@ The complete thesis and technical documentation for this project are available i
 ## 👥 Authors
 This senior project was co-developed by a team of two:
 
-* **Patiphat Sombat**
+* **Mr.Patiphat Sombat**
   * **Role:** Hardware Design & Integration, UI/UX Design, and Software Collaboration.
   * [Email](mailto:patiphat.birds@gmail.com)
-* **[ชื่อ-นามสกุลเพื่อนภาษาอังกฤษ]**
+* **Mr.Sathaporn Wongwaikitkajohn**
   * **Role:** Lead Programmer (Python, OpenCV) and Core System Architecture.
   * [Email](mailto:mr.sathaporn5451@gmail.com)
