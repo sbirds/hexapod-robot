@@ -41,4 +41,4 @@ The complete thesis and technical documentation for this project are available i
 * ## 👨‍💻 Author
 **Patiphat Sombat**
 * Computer Engineer / Embedded Systems Developer
-* [LinkedIn](https://www.linkedin.com/in/ใส่ลิงก์ของคุณตรงนี้/) | [Email](mailto:patiphat.birds@gmail.com)
+* [Email](mailto:patiphat.birds@gmail.com)
