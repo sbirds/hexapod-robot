@@ -5,7 +5,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
 
 <img width="741" height="522" alt="เดินห้นา" src="https://github.com/user-attachments/assets/31771184-d1a6-4224-acc9-65cae2604ed0" />
-
+<img width="384" height="229" alt="รูปภาพ1" src="https://github.com/user-attachments/assets/b9dec662-af93-4cd8-a2be-64f9a26dd959" />
 ## UX/UI Display Controller
 
 <img width="384" height="229" alt="รูปภาพ1" src="https://github.com/user-attachments/assets/b9dec662-af93-4cd8-a2be-64f9a26dd959" />
