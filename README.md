@@ -26,10 +26,6 @@ This repository contains the source code and documentation for the **Autonomous 
 * **Libraries:** OpenCV, picamera2, Socket (for Wi-Fi communication)
 * **OS:** Raspberry Pi OS (Raspbian)
 
-## 📂 Documentation & Thesis
-The complete thesis and technical documentation for this project are available in the `docs` folder. It covers the mechanical design, hardware wiring, and software architecture in detail.
-* 📄 **[Read the Full Thesis (PDF)](docs/Your_Thesis_File_Name.pdf)**
-
 ## 🚀 How to Run
 1. Clone this repository: `git clone https://github.com/sbirds/hexapod-robot.git`
 2. Install required dependencies: `pip install -r requirements.txt`
