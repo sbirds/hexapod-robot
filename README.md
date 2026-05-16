@@ -6,6 +6,10 @@
 
 <img width="741" height="522" alt="เดินห้นา" src="https://github.com/user-attachments/assets/31771184-d1a6-4224-acc9-65cae2604ed0" />
 
+## UX/UI Display Controller
+
+<img width="384" height="229" alt="รูปภาพ1" src="https://github.com/user-attachments/assets/b9dec662-af93-4cd8-a2be-64f9a26dd959" />
+
 ## 📖 Project Overview
 This repository contains the source code and documentation for the **Autonomous Hexapod Robot**, my university engineering senior project. The robot is designed for exploration and navigation in hazardous or inaccessible environments. It features precise multi-axis locomotion and a real-time computer vision system.
 
