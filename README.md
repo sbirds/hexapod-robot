@@ -35,9 +35,6 @@ The complete thesis and technical documentation for this project are available i
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Run the main control script on Raspberry Pi: `python main.py`
 
-## 👨‍💻 Author
-**Patiphat Sombat**
-* Computer Engineer / Embedded Systems Developer
 * ## 👨‍💻 Author
 **Patiphat Sombat**
 * Computer Engineer / Embedded Systems Developer
