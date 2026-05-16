@@ -42,5 +42,5 @@ This senior project was co-developed by a team of two:
   * **Role:** Hardware Design & Integration, UI/UX Design, and Software Collaboration.
   * [Email](mailto:patiphat.birds@gmail.com)
 * **Mr.Sathaporn Wongwaikitkajohn**
-  * **Role:** Lead Programmer (Python, OpenCV) and Core System Architecture.
+  * **Role:** Programmer (Python, OpenCV) and Core System Architecture.
   * [Email](mailto:mr.sathaporn5451@gmail.com)
