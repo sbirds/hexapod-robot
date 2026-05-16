@@ -35,7 +35,12 @@ The complete thesis and technical documentation for this project are available i
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Run the main control script on Raspberry Pi: `python main.py`
 
-* ## 👨‍💻 Author
-**Patiphat Sombat**
-* Computer Engineer / Embedded Systems Developer
-* [Email](mailto:patiphat.birds@gmail.com)
+## 👥 Authors
+This senior project was co-developed by a team of two:
+
+* **Patiphat Sombat**
+  * **Role:** Hardware Design & Integration, UI/UX Design, and Software Collaboration.
+  * [Email](mailto:patiphat.birds@gmail.com)
+* **[ชื่อ-นามสกุลเพื่อนภาษาอังกฤษ]**
+  * **Role:** Lead Programmer (Python, OpenCV) and Core System Architecture.
+  * [Email](mailto:mr.sathaporn5451@gmail.com)
