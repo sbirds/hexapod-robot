@@ -31,8 +31,7 @@ The complete thesis and technical documentation for this project are available i
 * 📄 **[Read the Full Thesis (PDF)](docs/Your_Thesis_File_Name.pdf)**
 
 ## 🚀 How to Run
-*(ใส่คำแนะนำสั้นๆ ว่าถ้าคนอื่นอยากรันโค้ดนี้ ต้องทำอย่างไร)*
-1. Clone this repository: `git clone https://github.com/yourusername/hexapod-robot.git`
+1. Clone this repository: `git clone https://github.com/sbirds/hexapod-robot.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Run the main control script on Raspberry Pi: `python main.py`
 
