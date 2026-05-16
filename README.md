@@ -1,4 +1,4 @@
-# Autonomous Hexapod Robot 🕷️
+# Hexapod Robot 🕷️
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A.svg)
