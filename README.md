@@ -27,9 +27,14 @@ This repository contains the source code and documentation for the **Autonomous 
 * **OS:** Raspberry Pi OS (Raspbian)
 
 ## 🚀 How to Run
-1. Clone this repository: `git clone https://github.com/sbirds/hexapod-robot.git`
-2. Install required dependencies: `pip install -r requirements.txt`
-3. Run the main control script on Raspberry Pi: `python main.py`
+1. Clone this repository: 
+   `git clone https://github.com/sbirds/hexapod-robot.git`
+2. Navigate to the project directory: 
+   `cd hexapod-robot`
+3. Install required dependencies: 
+   `pip3 install -r requirements.txt`
+4. Run the main control script on Raspberry Pi: 
+   `python3 main.py`
 
 ## 👥 Authors
 This senior project was co-developed by a team of two:
