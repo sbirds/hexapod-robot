@@ -4,8 +4,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
 
-> **Watch the Demo:** [Click here to insert a link to your YouTube video]
-
 <img width="741" height="522" alt="เดินห้นา" src="https://github.com/user-attachments/assets/31771184-d1a6-4224-acc9-65cae2604ed0" />
 
 ## 📖 Project Overview
